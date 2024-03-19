@@ -1,4 +1,4 @@
-# Kioptrix5 & PHPtax Vulnerability Exploiter (Automated)
+# Kioptrix5 PHPtax Vulnerability Exploiter (Automated)
 This Bash script automates the process of exploiting the vulnerabilities in Kioptrix5 PHPtax(rce) web applications. It's designed to assist security professionals in automationing and identifying potential security risks.
 
 # Disclaimer:
